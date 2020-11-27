@@ -7,7 +7,9 @@ Resource    Test1.Resource
 Open BW
         Open Browser    https://google.com    Chrome
         Title Should Be     Google
+        Test Message    Everything Clear
         Close All Browsers
+
 
 
 
